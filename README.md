@@ -13,7 +13,7 @@ Hello and Welcome to `tfsome Terraform practical labs` page. This is a collectio
 1. [Cloud lab](https://github.com/tfsome/cloud-provider-lab/main/README.md) # Basic training that learn you how to work with AWS, AZURE, GCP cloud resources.
 1. [GitHub lab](https://github.com/tfsome/github-lab) # Try to use Terraform with GitHub provider to configure and manage resources like a GitHub organization, including its members, teams, and repositories.
 1. [Troubleshouting lab](https://github.com/tfsome/github-lab) # Use your knowledges to fix and run simnple nginx server on AWS.
-1. [EKS-Minecraft](TBD) Pactical lab where you will create highly available and secure Minecraft server on Kubernetes in Amazon Web Services.
+1. [EKS-Minecraft](TBD) # Coming soon. Pactical lab where you will create highly available and secure Minecraft server on Kubernetes in Amazon Web Services.
 
 
 ---
