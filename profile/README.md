@@ -2,7 +2,11 @@
 
 ![ˈtɛrəfɔːm](https://i.imgur.com/RXAzrGo.jpg)
 
-Hello and Welcome to `tfsome Terraform practical labs` page. This is a collection of several repositories with Terraform self-study materials and series of pratical tasks that can help you to learn by doing.
+Welcome to TFSome: Hands-On Terraform Labs!
+
+This GitHub organization hosts a collection of repositories filled with practical, self-paced Terraform labs and exercises. Our goal is to help you learn Terraform by doing—through real-world scenarios and hands-on experience.
+
+Whether you're a beginner or looking to sharpen your skills, these labs will guide you through essential concepts and best practices. Dive in and start building with Terraform today! 🚀
 
 
 
@@ -18,5 +22,5 @@ Hello and Welcome to `tfsome Terraform practical labs` page. This is a collectio
 
 ---
 ### Contribution Rules
-We are trying to keep materials from this repo as much universal as possible. This approach let use this materials in multiple trainings and mentoring.
+We are trying to keep materials as much universal as possible. This approach let use this materials in multiple trainings and mentoring.
 Let's keep it universal and open for anyone's input.
