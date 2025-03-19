@@ -16,7 +16,7 @@ Whether you're a beginner or looking to sharpen your skills, these labs will gui
 1. [Core concepts](https://github.com/tfsome/concepts/blob/main) # start from this if you are comnpletely new in Terraform. Short theory overview that required to start.
 1. [Cloud lab](https://github.com/tfsome/cloud-provider-lab/blob/main) # Basic training that learn you how to work with AWS, AZURE, GCP cloud resources.
 1. [GitHub lab](https://github.com/tfsome/github-lab/blob/main) # Try to use Terraform with GitHub provider to configure and manage resources like a GitHub organization, including its members, teams, and repositories.
-1. [Troubleshouting lab](TBD) # Use your knowledges to fix and run simnple nginx server on AWS.
+1. [Troubleshouting lab](https://github.com/tfsome/double-trouble/blob/main) # Use your knowledges to fix and run simnple nginx server on AWS.
 1. [EKS-Minecraft](TBD) # Coming soon. Pactical lab where you will create highly available and secure Minecraft server on Kubernetes in Amazon Web Services.
 
 
